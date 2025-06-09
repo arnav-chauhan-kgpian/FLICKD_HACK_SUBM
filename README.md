@@ -52,8 +52,9 @@ FLICKD_HACK_SUBM
 ├── requirements.txt
 └── README.md
 ```
-## WARNINGS: 1. THE clip-vit-base-patch32/ is not present in models/ due to its large size, instead a google drive link to the model folder is given, and you have to add that folder on your local device under the models directory.
-Google Drive Link - https://drive.google.com/drive/folders/1AZ8ml7VHRFitjpnR6R2kRGlKEL3Yqj1Y?usp=drive_link
+## WARNINGS:
+1. THE clip-vit-base-patch32/ is not present in models/ due to its large size, instead a google drive link to the model folder is given, and you have to add that folder on your local device under the models directory.
+Google Drive Link to clip model - https://drive.google.com/drive/folders/1AZ8ml7VHRFitjpnR6R2kRGlKEL3Yqj1Y?usp=drive_link
 ---
 
 ## 🚀 How to Run
