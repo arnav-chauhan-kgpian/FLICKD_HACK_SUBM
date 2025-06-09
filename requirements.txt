@@ -1,0 +1,15 @@
+torch
+requests
+nltk
+matplotlib
+tqdm
+ultralytics 
+opencv-python 
+ffmpeg-python
+transformers 
+torchvision 
+pillow
+faiss-cpu 
+keybert
+sentence-transformers
+ 
