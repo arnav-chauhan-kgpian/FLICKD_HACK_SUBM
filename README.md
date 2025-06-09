@@ -64,7 +64,7 @@ NOTE- I have used FFMPEG during extraction of frames, you will need to have it i
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FLICKD_HACK_SUBM.git
+git clone https://github.com/arnav-chauhan-kgpian/FLICKD_HACK_SUBM.git
 cd FLICKD_HACK_SUBM
 
 # (Optional) Create a virtual environment
