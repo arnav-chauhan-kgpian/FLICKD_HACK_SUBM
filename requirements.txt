@@ -1,0 +1,14 @@
+matplotlib
+tqdm
+nltk
+ultralytics 
+opencv-python 
+ffmpeg-python
+transformers 
+torch 
+torchvision 
+pillow
+faiss-cpu 
+keybert
+sentence-transformers
+ 
