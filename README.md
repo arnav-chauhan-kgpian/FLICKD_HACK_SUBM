@@ -58,6 +58,7 @@ Google Drive Link to clip model - https://drive.google.com/drive/folders/1AZ8ml7
 ---
 
 ## 🚀 How to Run
+NOTE- I have used FFMPEG during extraction of frames, you will need to have it installed in your local device and set it as a environment variable. Also be mindful of paths given in the python files, change them as per your relevant file's location.
 
 ### 🔧 1. Setup
 
