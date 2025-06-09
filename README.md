@@ -154,7 +154,7 @@ python main/vibe_classifier.py
 
 ## 📽️ Demo Video
 
-🔗 [Loom demo]([https://loom.com/share/your-demo-link](https://www.loom.com/share/18585635b0ad4a14bcd0a6e3badd7b87?sid=8dd34b30-6915-4ce0-9269-8fa3bc7bdbab))
+🔗 ([LOOM DEMO](https://www.loom.com/share/18585635b0ad4a14bcd0a6e3badd7b87?sid=8dd34b30-6915-4ce0-9269-8fa3bc7bdbab))
 
 ---
 
