@@ -57,7 +57,7 @@ FLICKD_HACK_SUBM
 ├── requirements.txt
 └── README.md
 ```
-
+## WARNING: THE clip-vit-vase-patch32/ is not present in models/ due to its large size, instead a google drive link to the model folder is given, and you have to add that folder on your local device under the models directory.
 ---
 
 ## 🚀 How to Run
