@@ -45,7 +45,7 @@ FLICKD_HACK_SUBM
 |   ├── best.pt    
 │   └── yolov8n.pt
 ├── outputs/  #Final JSONs with vibe classifications per video
-├── yolov8_finetuning/ #finetuned yolov8 model for fashion detection  
+├── yolov8_finetuning/ #personally finetuned yolov8 model for fashion detection with fashionpedia dataset
 |   ├── yolov8_1.ipynb  
 |   ├── yolov8_2.ipynb 
 │   └── yolov8_3.ipynb
